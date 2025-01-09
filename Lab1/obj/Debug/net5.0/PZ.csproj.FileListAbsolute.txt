@@ -1,0 +1,16 @@
+/home/iev/PZ/bin/Debug/net5.0/PZ
+/home/iev/PZ/bin/Debug/net5.0/PZ.deps.json
+/home/iev/PZ/bin/Debug/net5.0/PZ.runtimeconfig.json
+/home/iev/PZ/bin/Debug/net5.0/PZ.runtimeconfig.dev.json
+/home/iev/PZ/bin/Debug/net5.0/PZ.dll
+/home/iev/PZ/bin/Debug/net5.0/ref/PZ.dll
+/home/iev/PZ/bin/Debug/net5.0/PZ.pdb
+/home/iev/PZ/obj/Debug/net5.0/PZ.csproj.AssemblyReference.cache
+/home/iev/PZ/obj/Debug/net5.0/PZ.GeneratedMSBuildEditorConfig.editorconfig
+/home/iev/PZ/obj/Debug/net5.0/PZ.AssemblyInfoInputs.cache
+/home/iev/PZ/obj/Debug/net5.0/PZ.AssemblyInfo.cs
+/home/iev/PZ/obj/Debug/net5.0/PZ.csproj.CoreCompileInputs.cache
+/home/iev/PZ/obj/Debug/net5.0/PZ.dll
+/home/iev/PZ/obj/Debug/net5.0/ref/PZ.dll
+/home/iev/PZ/obj/Debug/net5.0/PZ.pdb
+/home/iev/PZ/obj/Debug/net5.0/PZ.genruntimeconfig.cache
